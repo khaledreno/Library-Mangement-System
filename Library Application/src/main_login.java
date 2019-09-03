@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Khaled
+ * @author Khaled Mohamed 
  */
 public class main_login extends javax.swing.JFrame {
     
